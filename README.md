@@ -1,8 +1,8 @@
 # Olá, eu sou a Withiney 👋
 
-Sou estudante de **Desenvolvimento de Sistemas no SENAI**, com interesse em iniciar minha carreira na área de tecnologia por meio de oportunidades de **estágio**, especialmente em **Desenvolvimento de Software** e **QA/Testes**.
+Sou **Desenvolvedora de Software em início de carreira**, com foco em **Desenvolvimento Web** e interesse também em **QA/Testes**.
 
-Atualmente estou desenvolvendo minha base em programação, criação de interfaces e desenvolvimento web, enquanto construo projetos para evoluir meu portfólio e ganhar experiência prática.
+Atualmente desenvolvo projetos para fortalecer meu portfólio, evoluir minhas habilidades técnicas e ganhar experiência prática com desenvolvimento de sistemas.
 
 ## 🚀 Tecnologias e ferramentas
 
@@ -15,7 +15,7 @@ Atualmente estou desenvolvendo minha base em programação, criação de interfa
 - Figma
 - Excel
 
-## 📚 Atualmente estudando
+## 📚 Atualmente aprimorando
 
 - Desenvolvimento web
 - Lógica de programação
@@ -25,19 +25,19 @@ Atualmente estou desenvolvendo minha base em programação, criação de interfa
 
 ## 💻 Projetos
 
-Este perfil está sendo organizado para reunir meus projetos acadêmicos e pessoais.
+Este perfil reúne meus projetos acadêmicos e pessoais, além de trabalhos desenvolvidos durante minha evolução na área de tecnologia.
 
-Em breve, vou adicionar aqui os projetos que melhor representam minha evolução como desenvolvedora.
+Em breve, vou destacar aqui os projetos que melhor representam minhas habilidades como desenvolvedora.
 
 ## 🎯 Objetivo profissional
 
-Busco uma oportunidade de **estágio ou primeira experiência profissional em tecnologia**, de preferência em formato remoto, onde eu possa aprender com uma equipe, contribuir em projetos reais e continuar evoluindo tecnicamente.
+Busco uma oportunidade de **estágio ou primeira experiência profissional em tecnologia**, de preferência em formato remoto, onde eu possa contribuir em projetos reais, aprender com uma equipe e continuar evoluindo tecnicamente.
 
 ## 🌱 Sobre mim
 
 Gosto de aprender novas tecnologias, transformar ideias em projetos e entender como sistemas podem resolver problemas reais.
 
-Estou construindo meu portfólio passo a passo e usando este GitHub para registrar minha evolução.
+Uso este GitHub para registrar minha evolução, organizar meus projetos e construir meu portfólio profissional.
 
 ---
 
